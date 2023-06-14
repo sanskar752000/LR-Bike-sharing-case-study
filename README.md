@@ -1,5 +1,4 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike Sharing Assignment
 
 
 ## Table of Contents
